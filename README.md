@@ -1,5 +1,5 @@
 ## Certifications
-I am committed to continuous learning and professional development in the fields of data science, machine learning, and business analytics. Below is a list of specialized courses I have completed on Udemy:
+I am committed to continuous learning and professional development in the fields of data science, machine learning, and business analytics. Below is a list of specialized courses I have completed:
 
 ### Python for Data Science and Machine Learning Bootcamp
 - **Topics Covered:** Comprehensive training on using Python for data science, including libraries like NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, and TensorFlow.
